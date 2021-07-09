@@ -1,0 +1,12 @@
+html,body{
+    background-color: darkgrey;
+}
+
+.joker::marker{
+    content: "🃏";
+}
+
+.espacio-izq{
+    margin-left: 10px;
+    font-weight: bold;
+}

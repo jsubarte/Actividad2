@@ -1,0 +1,1 @@
+Solo necesita VSCode y la extension de Live Server 5.6.1
